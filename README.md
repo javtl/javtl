@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! I'm Javier 👋
 
-<!--
-**javtl/javtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Development Student 
+Currently pursuing a degree in **Multi-platform Application Development**. I am focused on building efficient, scalable software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+* **Languages:** Kotlin (Current Focus 👨‍💻), Java, Python, SQL.
+* **Interests:** Fintech Ecosystems, Microservices Architecture, Web3 (Blockchain).
+* **Core Principles:** Clean Code, Git Flow, Project-Based Learning.
+
+---
+
+## 📚 What I'm studying now
+- [ ] **Backend:** Deepening my knowledge in **Java / Kotlin & Spring Boot**.
+- [ ] **Automation & AI:** Building bots and automation scripts with **Python**.
+- [ ] **Web Development:** Exploring **React/Angular** for front-end integration (Self-taught).
+- [ ] **Cloud:** Preparing for the **AWS Cloud Practitioner** Certification.
+- [ ] **Languages:**
+    - 🇬🇧 C1 English (Polishing to professional level).
+    - 🇩🇪 German (Starting the journey).
+    - 🇮🇹 Italian (Refreshing my Erasmus skills).
+- [ ] Contribute to Open Source projects.
+
+---
+
+## 📫 Let's Connect
+* **LinkedIn:** [https://www.linkedin.com/in/javierlge/]
+* **Status:** Open to networking and international internship opportunities.
+
+---
+
+> *"Learning Everyday 🧿"*
