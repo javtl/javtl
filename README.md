@@ -26,7 +26,7 @@ Currently pursuing a degree in **Multi-platform Application Development**. I am 
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/javierlge/]
+* **LinkedIn:** [https://www.linkedin.com/in/javierlsw/]
 * **Status:** Open to networking and international internship opportunities.
 
 ---
