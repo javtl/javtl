@@ -31,4 +31,4 @@ Currently pursuing a degree in **Multi-platform Application Development**. I am 
 
 ---
 
-> *"Learning Everyday 🧿"*
+> *"Learning Everyday 🧿🐉"*
