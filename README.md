@@ -1,7 +1,7 @@
 # Hello there! I'm Javier 👋
 
 ### 🚀 Software Development Student 
-Currently pursuing a degree in **Multi-platform Application Development**. I am focused on building efficient, scalable software.
+Currently pursuing a degree in **Software Development**. I am focused on building efficient, scalable software.
 
 ---
 
