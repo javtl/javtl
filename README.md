@@ -1,27 +1,19 @@
 # Hello there! I'm Javier 👋
 
 ### 🚀 Software Development Student 
-Currently pursuing a degree in **Software Development**. I am focused on building efficient, scalable software.
+Currently pursuing a degree in **Software Development**. I am focused on building efficient and scalable backend systems, with a strong interest in systems programming (C++) and AI infrastructure.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-* **Languages:** Kotlin (Current Focus 👨‍💻), Java, Python, SQL.
-* **Interests:** Fintech Ecosystems, Microservices Architecture, Web3 (Blockchain).
+* **Backend & Languages:** Java/Kotlin (Spring Boot), Python, SQL / NoSQL.
+* **Systems & Low-Level:** C++17, CMake.
 * **Core Principles:** Clean Code, Git Flow, Project-Based Learning.
 
 ---
 
-## 📚 What I'm studying now
-- [ ] **Backend:** Deepening my knowledge in **Java / Kotlin & Spring Boot**.
-- [ ] **Automation & AI:** Building bots and automation scripts with **Python**.
-- [ ] **Web Development:** Exploring **React/Angular** for front-end integration (Self-taught).
-- [ ] **Cloud:** Preparing for the **AWS Cloud Practitioner** Certification.
-- [ ] **Languages:**
-    - 🇬🇧 C1 English (Polishing to professional level).
-    - 🇩🇪 German (Starting the journey).
-    - 🇮🇹 Italian (Refreshing my Erasmus skills).
-- [ ] Contribute to Open Source projects.
+## 🚀 Active Projects
+- **[Aether Engine](https://github.com/javtl/aether-engine):** Modular C++17 slot engine exploring memory management, RAII, and low-level system design.
 
 ---
 
