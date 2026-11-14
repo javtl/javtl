@@ -13,7 +13,7 @@ Currently pursuing a degree in **Software Development**. I am focused on buildin
 ---
 
 ## 🚀 Active Projects
-- **[Aether Engine](https://github.com/javtl/aether-engine):** Modular C++17 slot engine exploring memory management, RAII, and low-level system design.
+**[Aether Engine](https://github.com/javtl/aether-engine):** Modular C++17 slot engine exploring memory management, RAII, and low-level system design.
 
 ---
 
